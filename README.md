@@ -1,5 +1,12 @@
 # Dijkstra path planner application
 
+Simple path planning application using Dijkstra's path planning algorithm.
+
+
+<p align="center">
+  <img src="https://github.com/HrushikeshBudhale/path_planner_app/blob/main/doc/path_planner.gif?raw=0" alt="OUTPUT GIF" width="600"/>
+</p>
+
 ## Dependencies
 - python 3.6 or above
 - numpy
